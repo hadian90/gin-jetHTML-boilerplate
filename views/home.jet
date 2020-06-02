@@ -1,0 +1,6 @@
+{{extends "layouts/application.jet"}}
+{{block body()}}
+  <main>
+    This content will be yielded in the layout above.
+  </main>
+{{end}}
